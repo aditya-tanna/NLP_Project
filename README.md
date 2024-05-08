@@ -1,4 +1,4 @@
-Headline Generation Project
+# Headline Generation Project
 
 ## Overview
 
